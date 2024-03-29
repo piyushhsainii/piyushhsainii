@@ -12,11 +12,11 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 
-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=piyushhsainii" alt="GitHub Streak" /></a>
 - 📫 How to reach me -
 - Twitter : https://twitter.com/piyushsainii
 - Discord : @piyushhsainii
 
+- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=piyushhsainii" alt="GitHub Streak" /></a>
 
 <!---
 piyushhsainii/piyushhsainii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
