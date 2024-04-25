@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Piyush Saini - A Full-Stack Developer based in Delhi. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects.
-- My Tech Stack ---
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -11,8 +10,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-
-- 📫 How to reach me -
 - Twitter : https://twitter.com/piyushsainii
 - Discord : @piyushhsainii
 
